@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Alex Macrides and I am a Boston-based full stack developer with a background in music education and experience with javascript, react, and express. I am excited to show some of my personal projects here and learn more about software development.
+
 <!--
 **AlexMacrides/AlexMacrides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
